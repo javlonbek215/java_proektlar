@@ -1,2 +1,2 @@
 # java_proektlar
-Bu yerda Java dasturlash tiliga doir o`zim mustaqil qilgan proektlarimni joylab boraman.
+Ushbu repositoryda java dasturlash tilida yozilgan proektlar jamlangan.
